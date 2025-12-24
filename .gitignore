@@ -22,4 +22,3 @@ __pycache__/
 
 # 保留所有创作文件
 !/.gitignore
-.env
